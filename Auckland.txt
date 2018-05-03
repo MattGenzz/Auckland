@@ -1,0 +1,106 @@
+Bus:
+
+	Airport Services:
+		There are several ways you can take public transport to and from Auckland Airport. The SkyBus and 380 Airporter stop at both the domestic and international airport terminals.
+		
+
+	Night Bus:
+		From midnight until late the Night Bus and Northern Express bus night bus services are a great way to get home. Routes to North, South, East, West and Central suburbs operate on Friday and Saturday nights. 
+		
+		Routes:
+			https://at.govt.nz/media/1975515/night-bus-cbd-map.pdf
+		
+		About:
+			Normal bus fares apply.
+			Routes operate from midnight until late (early Saturday and Sunday mornings).
+			Buses leave via:
+				Customs Street;
+				Civic/St James;
+				Victoria Street;
+				Queen Street;
+			12 services which go North, South, East, Central and West suburbs.
+			Alcohol is not permitted on these services, space on board is subject to availability.
+			The Night Bus does not operate on Christmas Day or Good Friday.
+			
+		More:
+			AT HOP cards are accepted (tag on and tag off) on Night bus services.
+			For exact times, check the AT Journey Planner(https://at.govt.nz/bus-train-ferry/journey-planner/) or download the AT Mobile App. 
+	
+	Linhas de bus zonas 1 (central) e 2:
+		Rotas de ambas:
+			https://at.govt.nz/media/1972161/link-map.pdf
+			About:
+			
+				Buses operate in both directions unless indicated with arrows.
+				Link services are brought to you by Auckland Transport and NZ Bus.
+	
+		CityLink:
+		
+			Timatable:
+				Monday to Saturday
+					Every 7 to 8 minutes
+					6.25am to 11.25pm
+		
+				Sunday and Public Holidays
+					Every 10 minutes*
+					7am to 11.20pm
+			Cost:
+				$1.00 maximum adult and tertiary cash fare and 50c maximum child cash fare.
+	
+					Discounts apply when using your AT HOP card (adult, child and tertiary)
+					
+				CityLink is FREE when transferring to or from another bus or train when using AT HOP. Terms and conditions apply (https://at.govt.nz/bus-train-ferry/at-hop-card/using-managing-your-card/). Does not include SkyBus services.
+				
+			Route:
+				https://at.govt.nz/media/1951843/link-bus-stops-from-22-sept-2016.pdf
+				
+			More about:
+				Frequent services mean minimal waiting times
+				Air conditioned with designer comfort seats
+				Wheelchair and pushchair friendly buses
+				
+		InnerLink:
+		
+			Timatable:
+				Monday to Friday
+					Every 10 mins from 6.30am to 8.00pm
+					Every 15 mins from 8.00pm to 11.00pm
+		
+				Saturdays
+					Every 15 minutes from 6.30am to 11.00pm
+					
+				Sunday and Public Holidays
+					Every 15 minutes from 7.00am to 11.00pm
+	
+			Cost:
+				Normal bus fares apply.
+				
+			Route:
+				https://at.govt.nz/media/1951843/link-bus-stops-from-22-sept-2016.pdf
+				
+			More about:
+				Links with trains, ferries, Northern Express and other buses
+				Cost effective way to get between the inner city and nearest suburbs
+				Frequent services mean minimal waiting times
+				Air conditioned with designer comfort seats
+				Wheelchair and pushchair friendly buses
+			
+		OuterLink:
+			
+			Timatable:
+				Monday to Saturday
+					Every 15 minutes from 6:30am to 11:00pm
+		
+				Sunday and Public Holidays
+					Every 15 minutes from 7:00am to 11:00pm
+			Cost:
+				Normal bus fares apply.
+				
+			Route:
+				https://at.govt.nz/media/1951843/link-bus-stops-from-22-sept-2016.pdf
+				
+			More about:
+				Convenient way to get around Central Auckland and inner suburbs
+				Frequent services mean minimal waiting times
+				Air conditioned with designer comfort seats
+				Wheelchair and pushchair friendly buses
